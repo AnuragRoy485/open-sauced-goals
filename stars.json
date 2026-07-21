@@ -1,61 +1,79 @@
 [
   {
+    "full_name": "codepurse/BlockNSFW",
+    "stargazers_count": 90,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "PANDAss11/Striker",
+    "stargazers_count": 18,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "iyawnnn/UA-LabSign",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "rohingosling/taumax-uci-chess-engine",
-    "stargazers_count": 16,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "cupinaa/social-network-graph-explorer",
-    "stargazers_count": 10,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "ferro-labs/ai-gateway",
-    "stargazers_count": 180,
-    "open_issues_count": 48,
+    "stargazers_count": 188,
+    "open_issues_count": 51,
     "forks_count": 32
   },
   {
     "full_name": "Mikyx-1/Reinforcement-Learning",
-    "stargazers_count": 127,
+    "stargazers_count": 133,
     "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "lubdhak7414/KDoit",
-    "stargazers_count": 9,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "rajputomsingh/Fieldly",
-    "stargazers_count": 93,
+    "stargazers_count": 101,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "rawcache/riscvsim",
-    "stargazers_count": 182,
+    "stargazers_count": 186,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "anirudhnshandilya/auditpilot",
-    "stargazers_count": 12,
+    "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "slayzbss/SOON",
-    "stargazers_count": 85,
+    "stargazers_count": 104,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "AnuragRoy485/Telegram-OSINT-Toolkit",
-    "stargazers_count": 13,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -79,9 +97,9 @@
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 13669,
+    "stargazers_count": 13679,
     "open_issues_count": 62,
-    "forks_count": 876
+    "forks_count": 875
   },
   {
     "full_name": "AnuragRoy485/Awesome-CyberSec-Resources",
@@ -129,7 +147,7 @@
     "full_name": "keshavsingh3197/hacktoberfest",
     "stargazers_count": 861,
     "open_issues_count": 2865,
-    "forks_count": 3970
+    "forks_count": 3969
   },
   {
     "full_name": "AnuragRoy485/L3MON",
