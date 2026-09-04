@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "CTFd/CTFd",
+    "stargazers_count": 6817,
+    "open_issues_count": 427,
+    "forks_count": 2746
+  },
+  {
     "full_name": "AnuragRoy485/Sleuth",
     "stargazers_count": 27,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "AnuragRoy485/Telegram-OSINT-Toolkit",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -50,8 +56,8 @@
   {
     "full_name": "keshavsingh3197/hacktoberfest",
     "stargazers_count": 861,
-    "open_issues_count": 2864,
-    "forks_count": 3963
+    "open_issues_count": 2863,
+    "forks_count": 3962
   },
   {
     "full_name": "AnuragRoy485/L3MON",
@@ -68,7 +74,7 @@
   {
     "full_name": "atsign-foundation/at_client_sdk",
     "stargazers_count": 1436,
-    "open_issues_count": 204,
+    "open_issues_count": 193,
     "forks_count": 31
   },
   {
